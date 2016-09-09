@@ -7,25 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8050DD521D822EF900482472 /* PreviewInteractionControllerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8050DD511D822EF900482472 /* PreviewInteractionControllerViewController.m */; };
+		8050DD581D824A4D00482472 /* RenderCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8050DD571D824A4D00482472 /* RenderCell.m */; };
+		8050DD5B1D824A6F00482472 /* GraphicsRendererController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8050DD5A1D824A6F00482472 /* GraphicsRendererController.m */; };
 		8076ADE81D81C0E50074AB59 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8076ADE71D81C0E50074AB59 /* main.m */; };
 		8076ADEB1D81C0E50074AB59 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8076ADEA1D81C0E50074AB59 /* AppDelegate.m */; };
-		8076ADEE1D81C0E50074AB59 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8076ADED1D81C0E50074AB59 /* ViewController.m */; };
-		8076ADF11D81C0E50074AB59 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8076ADEF1D81C0E50074AB59 /* Main.storyboard */; };
 		8076ADF31D81C0E50074AB59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8076ADF21D81C0E50074AB59 /* Assets.xcassets */; };
 		8076ADF61D81C0E50074AB59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8076ADF41D81C0E50074AB59 /* LaunchScreen.storyboard */; };
+		8076AE071D81C5D60074AB59 /* AnimatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8076AE061D81C5D60074AB59 /* AnimatorViewController.m */; };
+		80A2E0711D82F3970092D58C /* Animator1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 80A2E0701D82F3970092D58C /* Animator1ViewController.m */; };
+		80A2E0741D82F3A90092D58C /* Animator2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 80A2E0731D82F3A90092D58C /* Animator2ViewController.m */; };
+		80A2E0771D82F3B90092D58C /* Animator3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 80A2E0761D82F3B90092D58C /* Animator3ViewController.m */; };
+		80A2E07A1D82F3E90092D58C /* Animator4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 80A2E0791D82F3E90092D58C /* Animator4ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8050DD501D822EF900482472 /* PreviewInteractionControllerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PreviewInteractionControllerViewController.h; sourceTree = "<group>"; };
+		8050DD511D822EF900482472 /* PreviewInteractionControllerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PreviewInteractionControllerViewController.m; sourceTree = "<group>"; };
+		8050DD561D824A4D00482472 /* RenderCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RenderCell.h; sourceTree = "<group>"; };
+		8050DD571D824A4D00482472 /* RenderCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RenderCell.m; sourceTree = "<group>"; };
+		8050DD591D824A6F00482472 /* GraphicsRendererController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GraphicsRendererController.h; sourceTree = "<group>"; };
+		8050DD5A1D824A6F00482472 /* GraphicsRendererController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GraphicsRendererController.m; sourceTree = "<group>"; };
 		8076ADE31D81C0E50074AB59 /* UIKitReAnimator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIKitReAnimator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8076ADE71D81C0E50074AB59 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8076ADE91D81C0E50074AB59 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8076ADEA1D81C0E50074AB59 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		8076ADEC1D81C0E50074AB59 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		8076ADED1D81C0E50074AB59 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		8076ADF01D81C0E50074AB59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8076ADF21D81C0E50074AB59 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8076ADF51D81C0E50074AB59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8076ADF71D81C0E50074AB59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8076AE051D81C5D60074AB59 /* AnimatorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimatorViewController.h; sourceTree = "<group>"; };
+		8076AE061D81C5D60074AB59 /* AnimatorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnimatorViewController.m; sourceTree = "<group>"; };
+		80A2E06F1D82F3970092D58C /* Animator1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Animator1ViewController.h; sourceTree = "<group>"; };
+		80A2E0701D82F3970092D58C /* Animator1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Animator1ViewController.m; sourceTree = "<group>"; };
+		80A2E0721D82F3A90092D58C /* Animator2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Animator2ViewController.h; sourceTree = "<group>"; };
+		80A2E0731D82F3A90092D58C /* Animator2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Animator2ViewController.m; sourceTree = "<group>"; };
+		80A2E0751D82F3B90092D58C /* Animator3ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Animator3ViewController.h; sourceTree = "<group>"; };
+		80A2E0761D82F3B90092D58C /* Animator3ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Animator3ViewController.m; sourceTree = "<group>"; };
+		80A2E0781D82F3E90092D58C /* Animator4ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Animator4ViewController.h; sourceTree = "<group>"; };
+		80A2E0791D82F3E90092D58C /* Animator4ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Animator4ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,15 +77,12 @@
 		8076ADE51D81C0E50074AB59 /* UIKitReAnimator */ = {
 			isa = PBXGroup;
 			children = (
+				8076ADFD1D81C4520074AB59 /* Extensions */,
 				8076ADE91D81C0E50074AB59 /* AppDelegate.h */,
 				8076ADEA1D81C0E50074AB59 /* AppDelegate.m */,
-				8076ADEC1D81C0E50074AB59 /* ViewController.h */,
-				8076ADED1D81C0E50074AB59 /* ViewController.m */,
-				8076ADEF1D81C0E50074AB59 /* Main.storyboard */,
-				8076ADF21D81C0E50074AB59 /* Assets.xcassets */,
-				8076ADF41D81C0E50074AB59 /* LaunchScreen.storyboard */,
-				8076ADF71D81C0E50074AB59 /* Info.plist */,
 				8076ADE61D81C0E50074AB59 /* Supporting Files */,
+				8076ADFE1D81C45C0074AB59 /* View Controllers */,
+				8076ADFF1D81C4630074AB59 /* Views */,
 			);
 			path = UIKitReAnimator;
 			sourceTree = "<group>";
@@ -74,9 +90,49 @@
 		8076ADE61D81C0E50074AB59 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8076ADF21D81C0E50074AB59 /* Assets.xcassets */,
+				8076ADF41D81C0E50074AB59 /* LaunchScreen.storyboard */,
+				8076ADF71D81C0E50074AB59 /* Info.plist */,
 				8076ADE71D81C0E50074AB59 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8076ADFD1D81C4520074AB59 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		8076ADFE1D81C45C0074AB59 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				8076AE051D81C5D60074AB59 /* AnimatorViewController.h */,
+				8076AE061D81C5D60074AB59 /* AnimatorViewController.m */,
+				80A2E06F1D82F3970092D58C /* Animator1ViewController.h */,
+				80A2E0701D82F3970092D58C /* Animator1ViewController.m */,
+				80A2E0721D82F3A90092D58C /* Animator2ViewController.h */,
+				80A2E0731D82F3A90092D58C /* Animator2ViewController.m */,
+				80A2E0751D82F3B90092D58C /* Animator3ViewController.h */,
+				80A2E0761D82F3B90092D58C /* Animator3ViewController.m */,
+				80A2E0781D82F3E90092D58C /* Animator4ViewController.h */,
+				80A2E0791D82F3E90092D58C /* Animator4ViewController.m */,
+				8050DD501D822EF900482472 /* PreviewInteractionControllerViewController.h */,
+				8050DD511D822EF900482472 /* PreviewInteractionControllerViewController.m */,
+				8050DD591D824A6F00482472 /* GraphicsRendererController.h */,
+				8050DD5A1D824A6F00482472 /* GraphicsRendererController.m */,
+			);
+			path = "View Controllers";
+			sourceTree = "<group>";
+		};
+		8076ADFF1D81C4630074AB59 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8050DD561D824A4D00482472 /* RenderCell.h */,
+				8050DD571D824A4D00482472 /* RenderCell.m */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -111,7 +167,7 @@
 				TargetAttributes = {
 					8076ADE21D81C0E50074AB59 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 6AFXXL2C5E;
+						DevelopmentTeam = 2S4523XS7X;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -141,7 +197,6 @@
 			files = (
 				8076ADF61D81C0E50074AB59 /* LaunchScreen.storyboard in Resources */,
 				8076ADF31D81C0E50074AB59 /* Assets.xcassets in Resources */,
-				8076ADF11D81C0E50074AB59 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -152,23 +207,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8076ADEE1D81C0E50074AB59 /* ViewController.m in Sources */,
+				80A2E0741D82F3A90092D58C /* Animator2ViewController.m in Sources */,
+				8050DD521D822EF900482472 /* PreviewInteractionControllerViewController.m in Sources */,
+				80A2E07A1D82F3E90092D58C /* Animator4ViewController.m in Sources */,
 				8076ADEB1D81C0E50074AB59 /* AppDelegate.m in Sources */,
+				80A2E0711D82F3970092D58C /* Animator1ViewController.m in Sources */,
+				8050DD5B1D824A6F00482472 /* GraphicsRendererController.m in Sources */,
+				80A2E0771D82F3B90092D58C /* Animator3ViewController.m in Sources */,
 				8076ADE81D81C0E50074AB59 /* main.m in Sources */,
+				8076AE071D81C5D60074AB59 /* AnimatorViewController.m in Sources */,
+				8050DD581D824A4D00482472 /* RenderCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		8076ADEF1D81C0E50074AB59 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				8076ADF01D81C0E50074AB59 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		8076ADF41D81C0E50074AB59 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -274,7 +328,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6AFXXL2C5E;
+				DEVELOPMENT_TEAM = 2S4523XS7X;
 				INFOPLIST_FILE = UIKitReAnimator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.crazymilksoftware.UIKitReAnimator;
@@ -286,7 +340,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6AFXXL2C5E;
+				DEVELOPMENT_TEAM = 2S4523XS7X;
 				INFOPLIST_FILE = UIKitReAnimator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.crazymilksoftware.UIKitReAnimator;
@@ -313,6 +367,7 @@
 				8076ADFC1D81C0E50074AB59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
